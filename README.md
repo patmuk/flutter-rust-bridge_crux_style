@@ -1,3 +1,10 @@
+# Attention: Outdated!
+This code is functional, but outdated. A missconception is how effects are implemented.
+In my productive code this is heavily overhauled. 
+However, because of these changes and the minimal documentation, I did not ported it back to this example.
+
+If you want to use the updated setup, please inform me by filing an issue.
+
 # Intro
 This is an example project, showing how one can use Flutter for UI only and Rust for the rest.
 
