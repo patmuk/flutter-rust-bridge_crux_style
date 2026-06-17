@@ -11,7 +11,7 @@ This is an example project, showing how one can use Flutter for UI only and Rust
 I presented this to the [Rust Zürisee Group](https://rust-zürisee.ch) on 02/11/2025. Feel free to read my [slides](docs/talks/2025.02.11._rust_zuerisee_Flutter_UI_Rust_BE.pdf).
 
 # implemented paradigms
-## basis: Crux and Flutter-Rust-Bridge (FRB)
+## based on: Flutter-Rust-Bridge (FRB), inspired by Crux
 ### Flutter-Rust-Bridge (FRB)
  [FBR](https://github.com/fzyzcjy/flutter_rust_bridge) is a tool that allows to use Flutter and Rust together. It provides a bridge between the two languages.
  It does not enforce any pardigm, it simply offers to call rust functions from dart and vice versa.
